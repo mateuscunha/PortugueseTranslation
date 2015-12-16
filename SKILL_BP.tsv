@@ -1498,7 +1498,7 @@ SKILL_20150317_001497	$Damballa
 SKILL_20150317_001498	{memo X}{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na área alvo causando dano nos inimigos próximos.
 SKILL_20150317_001499	{memo X}Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
 SKILL_20150317_001500	{memo X}Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
-SKILL_20150317_001501	
+SKILL_20150317_001501	teste
 SKILL_20150317_001502
 SKILL_20150317_001503
 SKILL_20150317_001504
